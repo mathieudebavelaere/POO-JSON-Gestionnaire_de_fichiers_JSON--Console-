@@ -1,5 +1,5 @@
 
-# Programation Orienter Objet - JSON – Gestionnaire de fichiers JSON (Console)
+# Programmation Orienter Objet - JSON – Gestionnaire de fichiers JSON (Console)
 
 Développé par :Debavelaere Mathieu  
 
@@ -12,7 +12,7 @@ e-mail   :  mathieu.debavelaere@hotmail.com
 
 ## Présentation
 
-**Programation Orienter Objet - JSON** est une application console écrite en Python permettant de gérer dynamiquement des fichiers dans le dossier `.json` :
+**Programmation Orienter Objet - JSON** est une application console écrite en Python permettant de gérer dynamiquement des fichiers dans le dossier `.json` :
 - Création de fichiers JSON
 - Parcours et affichage de données
 - Ajout et suppression de clés ou d’objets
