@@ -3,10 +3,10 @@
 
 Développé par :Debavelaere Mathieu  
 
-site web :  https://mathieudebavelaere.fr
-Git-hub  :  https://github.com/mathieudebavelaere
-linkedin :  https://www.linkedin.com/in/mathieu-debavelaere-b38825253/
-e-mail   :  mathieu.debavelaere@hotmail.com
+- site web :  https://mathieudebavelaere.fr
+- Git-hub  :  https://github.com/mathieudebavelaere
+- linkedin :  https://www.linkedin.com/in/mathieu-debavelaere-b38825253/
+- e-mail   :  mathieu.debavelaere@hotmail.com
 
 ---
 
@@ -94,10 +94,10 @@ Ce projet est à la fois un outil pratique pour manipuler des données JSON et u
 ## Auteur
 
 **Debavelaere Mathieu**  
-site web :  https://mathieudebavelaere.fr
-Git-hub  :  https://github.com/mathieudebavelaere
-linkedin :  https://www.linkedin.com/in/mathieu-debavelaere-b38825253/
-e-mail   :  mathieu.debavelaere@hotmail.com
+- site web :  https://mathieudebavelaere.fr
+- Git-hub  :  https://github.com/mathieudebavelaere
+- linkedin :  https://www.linkedin.com/in/mathieu-debavelaere-b38825253/
+- e-mail   :  mathieu.debavelaere@hotmail.com
 ---
 
 ## Licence
